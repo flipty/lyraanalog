@@ -1,0 +1,13 @@
+// _header.scss
+
+nav.navbar.navbar-dark {
+	a.navbar-brand {
+		@include breakpoint(desktop){
+			background: url('../images/lyra-logo.png');
+			background-repeat: no-repeat;
+			background-size: cover;
+			width: 193px;
+			text-indent: -999em;			
+		}
+	}
+}

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="Lyra Analog engineers the finest reference phono cartridges available in the category.">
+<meta name="author" content="">
+<title>Lyra ETNA &lambda; Lambda Phono Cartridge | Lyra ETNA &lambda; Lambda SL | Lyra ETNA &lambda; Lambda Mono</title>
+
+<!-- Bootstrap core CSS -->
+<link href="css/lyra.css" rel="stylesheet">
+<link rel="shortcut icon" href="/favicon2022.ico" />
+<!-- Custom styles for this template -->
+
+<?php include('include-gtm.php');?>
+</head>
+
+<body>
+
+<!-- Navigation -->
+<?php include('include-navigation.php');?>  
+
+<!-- Page Content -->
+<div class="container">
+  <!-- Page Heading/Breadcrumbs -->
+  <h1 class="mt-4 mb-3">ETNA
+    <!--small>Subheading</small-->
+  </h1>
+  <ol class="breadcrumb" style="background-color: #e5e5e5;">
+    <li class="breadcrumb-item"> <a href="index.php">Home</a> </li>
+    <li class="breadcrumb-item active">ETNA</li>
+  </ol>
+  <div class="row">
+    <div class="col-md-12">
+      <div id="accordion">
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h5 class="mb-0">
+              <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              <h3>Lyra ETNA &lambda; Lambda</h3>
+              <a name="atlas-lambda"></a>
+              </button>
+            </h5>
+          </div>
+          <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+              <p>
+              <div style="width: 700px; height:400px; padding: 0 0 15px 0; margin-right: 25px; float:left; overflow: hidden;" >
+                <div id="productCarousel" class="carousel slide product-carousel" data-ride="carousel">
+                  <div class="carousel-item active"><img src="images/ETNA-LAMBDA.jpg" alt="Etna Lambda" title="Etna Lambda"></div>
+                  <div class="carousel-item"><img src="images/etna-2.jpg" alt="Etna Lambda" title="Etna Lambda"></div>
+                <div class="carousel-controls">
+                <a class="carousel-control-prev" href="#productCarousel" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#productCarousel" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>                  
+                </div>
+
+                </div>
+            </div>
+                Lyra again turns the analog world on its ear with the introduction of the Etna λ Lambda phono cartridge. Sharing its name with Sicily’s majestic Mount Etna, Etna &lambda; Lambda the cartridge is an impressive monument in its own right, one that melds tried and true Lyra design tenets with designer Jonathan Carr’s very latest thinking on phono cartridges.</p>
+              <p>Etna &lambda; Lambda was designed with a strong emphasis on engineering efficiency, so that its performance would be as far beyond the sum of its parts as possible. For this reason, although it shares some of its design philosophy with Atlas λ Lambda, the concepts are executed rather differently.</p>
+              <p>Etna &lambda; Lambda employs a solid titanium core structure machined with non-parallel surfaces to inhibit internal reflections whenever possible, but unlike Atlas (and Titan i before it), this is mated to a slightly undersized, asymmetric, mirror-black anodized duralumin outer body that locks over the core like a very tightly-fitting jigsaw puzzle. The core and body are augmented with bronze and stainless-steel resonance control rods, then pressure-fit together into a pre-stressed, solid, void-free structure which is comprised of multiple materials and complex internal shapes. The constrained-layer nature of this construction dramatically reduces the resonant signature of each material and creates a far more neutral-sounding body structure than otherwise possible, while the high body stiffness benefits transients, dynamics and resolution.</p>
+              <p>Etna &lambda; Lambda uses a yokeless dual magnet system, diamond-coated boron rod cantilever and Lyra-designed variable-radius line-contact stylus. Lyra remains the only cartridge manufacturer to mount the cantilever directly into the cartridge body to create a rigid, seamless connection between the cantilever assembly and tonearm headshell. Why? Linear transducers such as phono cartridges are inherently inefficient devices, on the order of 5 -10%. In other words, of the vibrational energy that enters a cartridge from the LP groove, only 5-10% will be converted into electrical signal. The cartridge’s internal damping system will dissipate some of the remaining 90 to 95%, but much of the excess vibrational energy will reflect inside the cartridge, creating internal echoes and a general diminishing of fidelity. It is quite easy to hear this with many cartridges- play a highly modulated LP with the power amp turned off, and bring your ear close to the cartridge. The “needle talk” that you hear is excess vibrational energy which isn’t being controlled properly. Etna &lambda; Lambda’s direct-mounted cantilever helps conduct this excess vibrational energy into the headshell, where it is safely dissipated within the greater mass of the tonearm and turntable plinth.</p>
+              <p>Etna &lambda; Lambda utilizes the asymmetric design concept first seen in the flagship Atlas, but moves the screw/screwhole all the way to the front of the cartridge and interposes a bronze damping barrier between it and the mechanical path linking the cantilever assembly to the tonearm headshell. Freed of all obstructions and voids, the rigid, direct path established between cantilever and headshell is highly effective at draining away vibrations once they have been converted into electrical signals, effectively suppressing induced resonances and internal reflections that would otherwise manifest as sonic colorations. A narrowed mounting area couples Etna &lambda; Lambda more tightly to the headshell and facilitates the transfer of vibrational energy into the tonearm, giving even better control over spurious resonances.</p>
+              <p>Another design strength is Etna &lambda; Lambda high-efficiency X-shaped signal coils, another attribute it shares with the flagship Atlas. Compared to traditional square coil formers the X-shape allows each channel to operate with greater independence from one another, giving better tracking, tighter channel matching, improved separation, and lower crosstalk-induced distortion. Although there are and have been other X-coil cartridges, their benefits have been accompanied by poor efficiency (in converting mechanical work into electrical output), either requiring high internal impedance (the larger coils add considerable moving mass and increase noise) and/or having low output voltage (which stresses the phono stage).</p>
+              <p>To overcome this weakness, Lyra conducted a careful investigation of X-core coils, using a combination of mathematical analysis and hands-on experimentation. The outcome of the analysis program was a very specific X-core shape and dimensions that not only had higher efficiency than any previous X-core cartridge, but also surpassed the efficiency of Lyra’s earlier square-coil cartridge designs.</p>
+              <p><a href="http://lyraanalog.com/lyra-new-angle.php">Lyra’s New Angle technology</a> mechanically pre-biases the signal coils so they are perfectly aligned to the front and rear magnets during LP playback, which allows the coils to move optimally in all directions for superior, distortion-free playback.</p>
+              <p>A seldom-mentioned yet key factor in defining the performance and sound of a phono cartridge is the suspension and damper system. A cantilever’s materials, dimensions and constructions all affect the sound in unique ways, and unless the dampers and suspension are engineered to be a suitable match to the cantilever chosen, the sound and performance will not be optimal.</p>
+              <p>For Lyra’s post-2008 New Angle models (Delos, Kleos, Etna, Atlas) we developed tapered dampers to pre-load the cantilever downwards when it is in the rest position, so that the application of vertical tracking force (VTF) will bring the coil angle into alignment with the magnets when the cartridge is in the playing position. Our continued research into dampers and suspension systems has now led to the next level up - Lambda.</p>
+              <p>Lambda separates the tapered dampers of the New Angle cartridges into flat elastomer discs (for damping) and an additional support “pillow” to serve as the cantilever pre-loading element. This division allows the use of more specialized materials that are better suited to their individual tasks.</p>
+              <p>The Lambda Atlas and Etna thereby continue the New Angle benefits (coil and magnet angles become aligned when the cartridge is in the playing position), but stability and sonic performance are significantly improved.</p>
+              <p>The Lambda improvements apply to both the single coil layer models (Atlas SL, Etna SL) and the standard double coil layer models (Atlas, Etna). Likewise for the Atlas Mono and Etna Mono models.</p>
+              <p>While Etna &lambda; Lambda is second from the top in Lyra’s line, one listen will demonstrate that this cartridge’s performance would define the very top of any other cartridge line. Atlas has a very refined, elegant and voluptuous sound while Etna &lambda; Lambda personality is more outgoing. We truly believe that choosing between these two exceptional performers will come down to one’s tastes and the system in which it will live. For many customers Etna λ Lambda will be ideal and become their preferred Lyra.</p>
+              <h3 class="my-3">Specifications for Lyra Etna &lambda; Lambda</h3>
+              <ul>
+                <li><strong>Type:</strong> Medium weight, medium compliance, low-impedance moving coil cartridge</li>
+                <li><strong>Stylus:</strong> Lyra-designed long-footprint variable-radius line-contact nude diamond (3μm×70μm), slot-mounted</li>
+                <li><strong>Cantilever system:</strong> Diamond-coated solid boron rod with short one-point wire suspension, directly mounted into cartridge body via high-pressure knife-edge system</li>
+				<li><strong>Body:</strong> Machined titanium central core, anodized aluminum</li>
+                <li><strong>Coils:</strong> 2-layer deep, 6 N high-purity copper, chemically-purified high-purity iron cross-shaped former, 4.2 ohm self-impedance, 11μH inductance</li>
+                <li><strong>Output voltage:</strong> 0.56 mV@5 cm/sec., zero to peak, 45 degrees (CBS test record, other test records may alter results)</li>
+                <li><strong>Frequency range:</strong> 10 Hz~50 kHz</li>
+                <li><strong>Channel separation:</strong> Greater than 30dB at 1kHz</li>
+                <li><strong>Compliance:</strong> Approx. 12×10 cm/dyne at 100 Hz</li>
+                <li><strong>Cartridge mounting screws:</strong> 2.6 mm 0.45 pitch JIS standard</li>
+                <li><strong>Cartridge weight (without stylus cover):</strong> 9.2g</li>
+                <li><strong>Distance from mounting holes to stylus tip:</strong> 9.5 mm</li>
+                <li><strong>Recommended tracking force:</strong> 1.62 - 1.72g</li>
+				<li><strong>Recommended load directly into MC phono input:</strong> Detailed guidelines in instruction manual, finalize by listening</li>
+				<li><strong>Recommended load via step-up transformer:</strong> Use a step-up transformer designed for 3 -6 ohms cartridge impedance (step-up transformer’s output must be connected to 10kohm ~ 47kohm MM-level RIAA input, preferably via short, low-capacitance cable)</li>
+				<li><strong>Recommended tonearms:</strong> Medium to Medium-High mass arms recommended, which is bulk of tonearm market</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              <h3>Lyra ETNA &lambda; Lambda SL</h3>
+              <a name="atla-lambda-sl"></a>
+              </button>
+            </h5>
+          </div>
+          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+            <div class="card-body">
+              <p><img class="img-fluid" src="/images/ETNA-LAMBDA-SL.jpg" style="width:60%; height:auto; padding: 0 25px 15px 0; float:left;" alt="Lyra ETNA &lambda; Lambda SL" title="Lyra ETNA &lambda; Lambda SL">Lyra again turns the analog world on its ear with the introduction of the Etna &lambda; Lambda SL phono cartridge. Sharing its name with Sicily’s majestic Mount Etna, Etna &lambda; Lambda SL the cartridge is an impressive monument in its own right, one that melds tried and true Lyra design tenets with designer Jonathan Carr’s very latest thinking on phono cartridges.</p>
+              <p>Etna &lambda; Lambda SL was designed with a strong emphasis on engineering efficiency, so that its performance would be as far beyond the sum of its parts as possible. For this reason, although it shares some of its design philosophy with Atlas &lambda; Lambda SL, the concepts are executed rather differently.</p>
+              <p>Etna &lambda; Lambda SL employs a solid titanium core structure machined with non-parallel surfaces to inhibit internal reflections whenever possible, but unlike Atlas (and Titan i before it), this is mated to a slightly undersized, asymmetric, mirror-black anodized duralumin outer body that locks over the core like a very tightly-fitting jigsaw puzzle. The core and body are augmented with bronze and stainless-steel resonance control rods, then pressure-fit together into a pre-stressed, solid, void-free structure which is comprised of multiple materials and complex internal shapes. The constrained-layer nature of this construction dramatically reduces the resonant signature of each material and creates a far more neutral-sounding body structure than otherwise possible, while the high body stiffness benefits transients, dynamics and resolution.</p>
+              <p>Etna &lambda; Lambda SL uses a yokeless dual magnet system, diamond-coated boron rod cantilever and Lyra-designed variable-radius line-contact stylus. Lyra remains the only cartridge manufacturer to mount the cantilever directly into the cartridge body to create a rigid, seamless connection between the cantilever assembly and tonearm headshell. Why? Linear transducers such as phono cartridges are inherently inefficient devices, on the order of 5-10%. In other words, of the vibrational energy that enters a cartridge from the LP groove, only 5-10% will be converted into electrical signal. The cartridge’s internal damping system will dissipate some of the remaining 90 to 95%, but much of the excess vibrational energy will reflect inside the cartridge, creating internal echoes and a general diminishing of fidelity. It is quite easy to hear this with many cartridges- play a highly modulated LP with the power amp turned off, and bring your ear close to the cartridge. The “needle talk” that you hear is excess vibrational energy which isn’t being controlled properly. Etna &lambda; Lambda SL’s direct-mounted cantilever helps conduct this excess vibrational energy into the headshell, where it is safely dissipated within the greater mass of the tonearm and turntable plinth.</p>
+              <p>Etna &lambda; Lambda SL utilizes the asymmetric design concept first seen in the flagship Atlas, but moves the screw/screwhole all the way to the front of the cartridge and interposes a bronze damping barrier between it and the mechanical path linking the cantilever assembly to the tonearm headshell. Freed of all obstructions and voids, the rigid, direct path established between cantilever and headshell is highly effective at draining away vibrations once they have been converted into electrical signals, effectively suppressing induced resonances and internal reflections that would otherwise manifest as sonic colorations. A narrowed mounting area couples Etna &lambda; Lambda SL more tightly to the headshell and facilitates the transfer of vibrational energy into the tonearm, giving even better control over spurious resonances.</p>
+              <p>Another design strength is Etna &lambda; Lambda SL high-efficiency X-shaped signal coils, another attribute it shares with the flagship Atlas. Compared to traditional square coil formers the X-shape allows each channel to operate with greater independence from one another, giving better tracking, tighter channel matching, improved separation, and lower crosstalk-induced distortion. Although there are and have been other X-coil cartridges, their benefits have been accompanied by poor efficiency (in converting mechanical work into electrical output), either requiring high internal impedance (the larger coils add considerable moving mass and increase noise) and/or having low output voltage (which stresses the phono stage).</p>
+              <p>To overcome this weakness, Lyra conducted a careful investigation of X-core coils, using a combination of mathematical analysis and hands-on experimentation. The outcome of the analysis program was a very specific X-core shape and dimensions that not only had higher efficiency than any previous X-core cartridge, but also surpassed the efficiency of Lyra’s earlier square-coil cartridge designs.</p>
+              <p><a href="http://lyraanalog.com/lyra-new-angle.php">Lyra’s New Angle technology</a> mechanically pre-biases the signal coils so they are perfectly aligned to the front and rear magnets during LP playback, which allows the coils to move optimally in all directions for superior, distortion-free playback.</p>
+              <p>A seldom-mentioned yet key factor in defining the performance and sound of a phono cartridge is the suspension and damper system. A cantilever’s materials, dimensions and constructions all affect the sound in unique ways, and unless the dampers and suspension are engineered to be a suitable match to the cantilever chosen, the sound and performance will not be optimal.</p>
+              <p>For Lyra’s post-2008 New Angle models (Delos, Kleos, Etna, Atlas) we developed tapered dampers to pre-load the cantilever downwards when it is in the rest position, so that the application of vertical tracking force (VTF) will bring the coil angle into alignment with the magnets when the cartridge is in the playing position. Our continued research into dampers and suspension systems has now led to the next level up - Lambda.</p>
+              <p>Lambda separates the tapered dampers of the New Angle cartridges into flat elastomer discs (for damping) and an additional support “pillow” to serve as the cantilever pre-loading element. This division allows the use of more specialized materials that are better suited to their individual tasks.</p>
+              <p>The Lambda Atlas and Etna thereby continue the New Angle benefits (coil and magnet angles become aligned when the cartridge is in the playing position), but stability and sonic performance are significantly improved.</p>
+              <p>The Lambda improvements apply to both the single coil layer models (Atlas SL, Etna SL) and the standard double coil layer models (Atlas, Etna). Likewise for the Atlas Mono and Etna Mono models.</p>
+              <p>While Etna &lambda; Lambda SL is second from the top in Lyra’s line, one listen will demonstrate that this cartridge’s performance would define the very top of any other cartridge line. Atlas has a very refined, elegant and voluptuous sound while Etna &lambda; Lambda SL personality is more outgoing. We truly believe that choosing between these two exceptional performers will come down to one’s tastes and the system in which it will live. For many customers Etna &lambda; Lambda will be ideal and become their preferred Lyra.</p>
+              <h3 class="my-3">Specifications for Lyra Etna &lambda; Lambda SL</h3>
+              <ul>
+                <li><strong>Designer:</strong> Jonathan Carr</li>
+                <li><strong>Builder:</strong> Yoshinori Mishima</li>
+                <li><strong>Type:</strong> Medium weight, medium compliance, low-impedance moving coil cartridge</li>
+                <li><strong>Stylus:</strong> Lyra-designed long-footprint variable-radius line-contact nude diamond (3μm× 70μm), slot-mounted</li>
+                <li><strong>Cantilever system:</strong> Diamond-coated solid boron rod with short one-point wire suspension, directly mounted into cartridge body via high-pressure knife-edge system</li>
+				<li><strong>Body:</strong> Machined titanium central core, anodized aluminum</li>
+                <li><strong>Coils:</strong> Single layer, 6 N high-purity copper, chemically-purified high purity iron cross-shaped former, 1.52 ohm self impedance, 1.9μH inductance</li>
+                <li><strong>Output voltage:</strong> 0.25mV@5 cm/sec., zero to peak, 45 degrees (CBS test record, other test records may alter results)</li>
+                <li><strong>Frequency range:</strong> 10 Hz〜50 kHz</li>
+                <li><strong>Channel separation:</strong> Greater than 30dB at 1kHz</li>
+                <li><strong>Compliance:</strong> Approx. 12× 10 cm/dyne at 100 Hz</li>
+                <li><strong>Cartridge body:</strong> Multi-material (titanium, duralumin, bronze, stainless steel) self-clamping construction with reduced-surface higher-pressure headshell contact area, predominately non-parallel shaping, phase-interference resonance-controlling mechanisms, and body threaded directly for mounting screws</li>
+                <li><strong>Cartridge mounting screws:</strong> 2.6 mm 0.45 pitch JIS standard</li>
+                <li><strong>Cartridge weight (without stylus cover):</strong> 9.2g</li>
+                <li><strong>Distance from mounting holes to stylus tip:</strong> 9.52mm</li>
+                <li><strong>Recommended tracking force:</strong> 1.62 - 1.72g</li>
+                <li><strong>Recommended load directly into MC phono input:</strong> Detailed guidelines in instruction manual, finalize by listening.</li>
+                <li><strong>Recommended load via step-up transformer:</strong> Use a step-up transformer designed for 1 - 3 ohms cartridge impedance (step-up transformer’s output must be connected to 10kohm ~ 47kohm MM-level RIAA input, preferably via short, low-capacitance cable)</li>
+                <li><strong>Recommended tonearm:</strong> Medium to Medium-High mass arms recommended, which is bulk of tonearm market</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingThree">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              <h3>Lyra ETNA &lambda; Lambda Mono</h3>
+              <a name="atla-lambda-mono"></a>
+              </button>
+            </h5>
+          </div>
+          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+            <div class="card-body">
+              <p><img class="img-fluid" src="/images/ETNA-LAMBDA.jpg" style="width:60%; height:auto; padding: 0 25px 15px 0; float:left;" alt="Lyra ETNA &lambda; Lambda Mono" title="Lyra ETNA &lambda; Lambda Mono">This is a special, built-to-order, mono version of Etna &lambda; Lambda for real mono playback of monaural/monophonic (mono) microgroove, vinyl records. It is recommended that the Etna &lambda; Lambda Mono is used with high-gain, low noise phono stages, or alternatively a step-up transformer designed for phono cartridges of 2 - 3 ohms or less.</p>
+              <p>On mono records, the vertical axis of the groove contains no musical information, but it will frequently have noise, in the form of groove damage and dirt. The Etna λ Lambda Mono has therefore been designed to be completely insensitive to the vertical axis, which greatly improves the signal/noise ratio without any downside on monaural records.</p>
+              <p>The coil former is a square permeable plate oriented parallel to the record surface rather than the 45-degree angle used for most stereo cartridges, while the coils are wound so that they only generate a signal when there is horizontal movement of the stylus and cantilever when tracking a record.
+                Two totally separate monaural coils are used in the Etna λ Lambda Mono, since most monaural cartridges are used with stereo amplifiers and stereo speakers. The separate coils also help avoid possible ground loops and hum problems that could otherwise be caused if a single coil is fed into a stereo two-channel amplification system, thereby tying the two channels together electrically. </p>
+              <p>In addition to parallel mono connection to a stereo system (two amplifiers and two speakers), it is also possible to leave one set of connections unattached for pure mono playback with a single amplifier and a single speaker. However, it is also possible to connect the two mono channels in series for additional output when used in a pure mono system. Use a short cartridge headshell lead wire with female pin-connectors to connect either the Etna λ Lambda Mono's upper right pin with the lower left pin, or alternatively the upper left pin with the lower right pin. Then use the two remaining unused pins for connection to your single amp RIAA input (alternatively a transformer input). The two internal channels are now "chained" in serial-connection for additional output and energy when you only use a single amplifier and a single speaker.</p>
+              <p>The Etna λ Lambda Mono uses <a href="http://lyraanalog.com/lyra-new-angle.php">Lyra’s "New Angle" technology</a>, which mechanically pre-biases the signal coils so that they are perfectly aligned to the front and rear magnets when LP playback takes place. This equalizes out discrepancies in vertical and horizontal compliances and enables the Etna λ Lambda Mono coils to move with equal ease in all directions for optimal performance.</p>
+              <p>A seldom-mentioned yet key factor in defining the performance and sound of a phono cartridge is the suspension and damper system. A cantilever’s materials, dimensions and constructions all affect the sound in unique ways, and unless the dampers and suspension are engineered to be a suitable match to the cantilever chosen, the sound and performance will not be optimal.</p>
+              <p>For Lyra’s post-2008 New Angle models (Delos, Kleos, Etna, Atlas) we developed tapered dampers to pre-load the cantilever downwards when it is in the rest position, so that the application of vertical tracking force (VTF) will bring the coil angle into alignment with the magnets when the cartridge is in the playing position. Our continued research into dampers and suspension systems has now led to the next level up - Lambda.</p>
+              <p>Lambda separates the tapered dampers of the New Angle cartridges into flat elastomer discs (for damping) and an additional support “pillow” to serve as the cantilever pre-loading element. This division allows the use of more specialized materials that are better suited to their individual tasks.</p>
+              <p>The Lambda Atlas and Etna thereby continue the New Angle benefits (coil and magnet angles become aligned when the cartridge is in the playing position), but stability and sonic performance are significantly improved.</p>
+              <p>The Lambda improvements apply to both the single coil layer models (Atlas SL, Etna SL) and the standard double coil layer models (Atlas, Etna). Likewise for the Atlas Mono and Etna Mono models.</p>
+              <h3 class="my-3">Specifications for Lyra Etna &lambda; Lambda Mono</h3>
+              <ul>
+                <li><strong>Designer:</strong> Jonathan Carr</li>
+                <li><strong>Builder:</strong> Yoshinori Mishima (final build, testing), Akiko Ishiyama (preliminary build)</li>
+                <li><strong>Type:</strong> Medium weight, medium compliance, low-impedance, low-output moving coil cartridge</li>
+                <li><strong>Stylus:</strong> Lyra-designed long-footprint variable-radius line-contact nude diamond (3um x 70um profile, block dimensions 0.08 x 0.12 x 0.5mm), slot-mounted</li>
+                <li><strong>Cantilever system:</strong> Diamond-coated solid boron rod with short one-point wire suspension, directly mounted into cartridge body via high-pressure knife-edge system</li>
+				<li><strong>Body:</strong> Machined titanium central core, anodized aluminum</li>
+                <li><strong>Coils:</strong> Two individually isolated monophonic/monaural 6N high-purity copper coils wound in parallel (on top of each other) on a square-shaped chemically-purified high-purity iron former with 3.0 ohms self-impedance </li>
+                <li><strong>Output voltage:</strong> 0.25mV@5cm/sec., zero to peak, 45 degrees (CBS test record, other test records may alter results)</li>
+                <li><strong>Frequency range:</strong> 10 Hz〜50 kHz</li>
+                <li><strong>Channel separation:</strong> 35 dB or better at 1 kHz</li>
+                <li><strong>Compliance:</strong> Approx. 12×10 cm/dyne at 100 Hz</li>
+                <li><strong>Cartridge body:</strong> Multi-material (titanium, duralumin, bronze, stainless steel) self-clamping construction with reduced-surface higher-pressure headshell contact area, predominately non-parallel shaping, phase-interference resonance-controlling mechanisms, body threaded for mounting screws</li>
+                <li><strong>Cartridge mounting screws:</strong> 2.6 mm 0.45 pitch JIS standard</li>
+                <li><strong>Cartridge weight (without stylus cover):</strong> 9.2g</li>
+                <li><strong>Distance from mounting holes to stylus tip:</strong> 9.5mm</li>
+                <li><strong>Recommended tracking force:</strong> 1.62 - 1.72g</li>
+                <li><strong>Recommended load directly into MC phono input:</strong> Detailed guidelines in instruction manual, finalize by listening</li>
+                <li><strong>Recommended load via step-up transformer:</strong> Use a step-up transformer designed for 1 - 3 ohms cartridge impedance (step-up transformer’s output must be connected to 10kohm ~ 47kohm MM-level RIAA input, preferably via short, low-capacitance cable)</li>
+                <li><strong>Recommended tonearm:</strong> Medium to Medium-High mass arms recommended, which is bulk of tonearm market</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div>
+  <p style="margin-bottom: 25px:">&nbsp;</p>
+</div>
+<!-- /.container -->
+
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+  <div class="container">
+    <p class="m-0 text-center text-white">Copyright &copy; Lyra Analog <script>document.write(new Date().getFullYear())</script></p>
+  </div>
+  <!-- /.container -->
+</footer>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[12-Oct-2021 23:43:43 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[12-Oct-2021 23:43:43 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/i827hi4mfea5/public_html/lyra/sucuri-db-cleanup.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[12-Oct-2021 23:43:43 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[12-Oct-2021 23:43:43 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/i827hi4mfea5/public_html/lyra/sucuri-filemanager.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[12-Oct-2021 23:43:44 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[12-Oct-2021 23:43:44 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/i827hi4mfea5/public_html/lyra/sucuri-toolbox-client.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[12-Oct-2021 23:43:44 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[12-Oct-2021 23:43:44 UTC] PHP Fatal error:  Unknown: Failed opening required '/home/i827hi4mfea5/public_html/lyra/sucuri-version-check.php' (include_path='.:/opt/alt/php73/usr/share/pear') in Unknown on line 0
+[20-Oct-2021 05:39:18 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[21-Oct-2021 05:35:13 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[22-Oct-2021 05:35:21 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[23-Oct-2021 05:34:37 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[24-Oct-2021 05:35:31 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[25-Oct-2021 05:35:01 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[26-Oct-2021 05:35:02 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[27-Oct-2021 05:34:46 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[28-Oct-2021 05:34:50 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[29-Oct-2021 05:35:24 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[30-Oct-2021 05:36:22 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[31-Oct-2021 05:35:22 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[01-Nov-2021 05:36:20 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[02-Nov-2021 05:34:40 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[03-Nov-2021 05:35:17 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[04-Nov-2021 05:35:10 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[05-Nov-2021 05:35:07 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[06-Nov-2021 05:35:25 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[07-Nov-2021 05:35:46 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[08-Nov-2021 05:36:04 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[10-Nov-2021 05:36:21 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[11-Nov-2021 05:35:17 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[12-Nov-2021 05:35:22 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[13-Nov-2021 05:35:07 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[14-Nov-2021 05:35:52 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[15-Nov-2021 05:34:47 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[16-Nov-2021 05:34:51 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[17-Nov-2021 05:35:34 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed
+[19-Nov-2021 05:35:35 UTC] Unhandled exception in file cloner/websocket.php line 160: [ws_closed]: Connection closed

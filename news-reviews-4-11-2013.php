@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Lyra Analog engineers the finest reference phono cartridges available in the category.">
+    <meta name="author" content="">
+
+    <title>Lyra Atlas &lambda; Phono Cartridge | Analog LP + MC Cartridge</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/lyra.css" rel="stylesheet">
+<link rel="shortcut icon" href="/favicon2022.ico" />
+    <!-- Custom styles for this template -->
+    
+<?php include('include-gtm.php');?>
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <?php include('include-navigation.php');?>
+    
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading/Breadcrumbs -->
+      <h1 class="mt-4 mb-3">Lyra Atlas &lambda; Phono Cartridge
+        <small>Line-topping cartridge that reveals “the last ounce of music from a treasured record collection.”</small>
+      </h1>
+
+      <ol class="breadcrumb" style="background-color: #e5e5e5;">
+        <li class="breadcrumb-item">
+          <a href="index.php">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+			<a href="news-reviews.php">News &amp; Reviews</a>
+		</li>
+		<li class="breadcrumb-item active">
+			Lyra Atlas &lambda; Phono Cartridge
+		</li>
+      </ol>
+
+	  <!-- Portfolio Item Row -->
+      <div class="row" style="margin-bottom: 25px;">
+
+        <div class="col-md-12">
+          <!--h3 class="my-3">Description</h3-->
+            <p><img class="img-fluid" src="/images/ATLAS-ATLAS-SL-4x7.jpg" style="width:40%; height:auto; padding: 0 25px 15px 0; float:left;" alt="Lyra Atlas &lambda;" title="Lyra Atlas &lambda;">What’s in a name? In the world of audio products, the most imaginative product names appear to be reserved for phono cartridges. That’s not to say that all cartridges are imaginatively named — far from it. The least imaginative are those named with a string of letters and numbers, like the Shelter S 901IIE, the Shure M97xE or the Air Tight PC-3. These names are better suited for computer pass codes or fighter jets. Slightly more imaginative are cartridges named after precious metals and stones, but these variations on Gold, Platinum, Diamond and Titanium sound more like credit cards than cartridges. Some manufacturers go for the obvious musical references, naming their candidates Stradivari, Concerto, Maestro or Aida.</p>
+
+			<p>&nbsp;</p>
+
+			<p>
+			<ul>
+				<li>Price: $9,500</li>
+				<li>Warranty: One year parts and labor</li>
+				<li>Lyra Co., Ltd.</li>
+				<li>4-34-13 Daita</li>
+				<li>Setagaya-ku, Tokyo, 155-0033, Japan</li>
+				<li>81-3-3327-9968 (66)</li>
+				<li><a href="http://lyraanalog.com/">www.lyraanalog.com</a></li>
+			</ul>
+			</p>
+
+			<p>Call me a snob, but I like a product name that suggests a wee bit of culture. Judged by that standard, Lyra is in a class all its own. The company name, as well as that of each of its products, is firmly based in mythology. Are these names drawn at random, are they a mere affectation, or is there some intention behind the selection? Knowing the players involved, I feel fairly certain that the latter is at play. Lyra’s new top cartridge, the Atlas &lambda;, is named after the Titan from Greek mythology who held up the celestial sphere. Clearly, Lyra has set itself a significant goal in creating a cartridge that will live up to that name.</p>
+
+			<p>Lyra’s large dose of attitude and erudition is not reflective of its size. It is a tiny three-man operation. Stig Bjorge runs the company operations, Jonathan Carr designs the products, and Yoshinori Mishima makes the higher-end cartridges by hand and supervises production of the less expensive models. Jonathan sometimes spends years agonizing over the design of a cartridge, and his attention to detail is reflective of how his mind works. Whether it’s a complex design concept or a relatively simple process, Jonathan brings the same laser-sharp attention to detail to every project.</p>
+
+			<p>Jonathan’s perfectionist streak shows up in the most mundane details. Everyone now takes for granted how important it is to keep the contacts of AC plugs and sockets clean using Q-tips and Flitz metal polish, but it was Jonathan who first recognized how critical this was and developed a procedure for doing it. I remember seeing Jonathan sitting on the floor demonstrating his technique ten years ago, and when I agonized over how to clean electrical sockets, it was Jonathan who had already come up with a simple solution: filing down the sides of the thin end of a wooden chopstick to use as a tool.</p>
+
+			<p>The first thing you notice about Jonathan’s newest creation, the Atlas &lambda; (other than the striking green color), is that it is asymmetrical. Looking at the cartridge from the front, there is a protrusion on the left side with what appears to be a gold rivet sticking out the front. This asymmetrical design suppresses the formation of standing waves inside the cartridge body. The protrusion holds the front magnet carrier and its mounting system off to the side to allow a direct, solid path between the cantilever assembly and the tonearm”s headshell, so that vibrations from the cantilever can be quickly drained away after being converted into electrical signals, again suppressing resonances.</p>
+
+			<p>Another departure from the Titan design (and indeed from the design of the discontinued Olympos) is revision of the cantilever-assembly mounting structure to increase rigidity. Additionally the former of the signal coil system is in the shape of an X rather than a square, which Lyra says allows each channel to operate with greater independence, giving better tracking, tighter channel matching, improved separation and lower crosstalk distortion. Additionally, the generator coils have been modified to reduce the amount of wire used by 22%, while producing 12% higher output voltage than the Titan. The Atlas &lambda; has an output voltage of 0.56mV, the same as the output of the Skala, compared to the Titan i’s 0.5mV, or the Titan Mono’s 0.25mV.</p>
+
+			<p>Lyra’s setup instructions have also evolved with its latest cartridges. In the past, Lyra would recommend a load of 100 ohms to 47K ohms, which of course covered the entire waterfront. Jonathan Carr has now constructed a detailed table, published in the instructions, helping you to calculate the ideal load based on the total capacitance, including the tonearm cable. The range of these options is quite small — between 104 ohms and 887 ohms. Thus, unless you have a phono stage with infinite loading adjustment, there will only be a few choices. Rounding off, the Audio Research Reference Phono 2SE has only four choices in that ballpark (100, 200, 500 and 1000 ohms). I could have determined the capacitance of the Nordost wire in my tonearm and calculated the ideal setting, but instead I followed the recommendation of Joe Harley of AudioQuest, who suggested loading at either 500 or 1000 ohms. Joe uses the same phono stage that I use, and comparative listening confirmed my preference for the 1000-ohm setting.</p>
+
+
+			<p>The instruction sheet recommends that tracking force not deviate beyond the tight range of 1.65 to 1.75 grams. This is the same recommendation that Lyra has made for its cartridges for some time, but Joe Harley advised me that the Atlas &lambda; was happiest with 1.72 grams, so, confirming with a digital scale, I went with that. In the past, dialing in tracking force with such precision on my VPI tonearms was excruciating, because adjusting azimuth can alter the tracking-force setting. However, having installed the Soundsmith Counter Intuitive on each of my VPI tonearms, it was a breeze nailing the 1.72-gram setting.</p>
+
+			<p>I’ve owned or cycled through many Lyra cartridges over the decades, including the Clavis, Clavis DC, Helikon, Skala and Titans. Examples of the last three are still in-house. I’ve had occasional romances with Benz and Koetsu, and tried cartridges from several other manufacturers as well. But for years, I’ve continued to find that Lyra cartridges usually provide the most satisfying blend of speed, midrange neutrality, and low-level dynamic contrast and detail for my tastes. For the money, the Titan i seemed pretty unbeatable, although it had been around long enough that other cartridges were matching or even exceeding it in some areas.</p>
+
+			<p>For years, I waited to see how Jonathan’s latest-generation top cartridge would compare with the Titan. Then my heart sank when I learned that the new Atlas &lambda; was priced at almost twice the cost of a new Titan i. No way could it be good enough to justify that kind of money. Was I wrong.</p>
+
+			<p>The Atlas &lambda;, like most cartridges, needs about 20 hours to settle in and perhaps 50 hours to be considered broken in. But fresh out of the box this cartridge clearly improved on the Titan i in every respect. It pulled out new information from records I’ve owned for decades and played with a wide variety of cartridges. In some cases, records I’d always assumed were deficient in the recording or mastering process, or the result of defective pressing, turned out to have merely been withholding their charms. While this sounds like a tracking issue, I doubt the differences can be adequately explained as better tracking by the Atlas &lambda; (although this is one area in which it excels). <strong><i>The Atlas &lambda; simply extracts more information and assembles it better than any cartridge I have heard.</i></strong> Ivor Tiefenbrun of Linn was right — the most important link in the chain is the first one. If the cartridge cannot extract information from the groove, no improvement in tonearm, turntable or anything else is going to re-create what”s missing.</p>
+
+			<p>One of my favorite torture tests for a cartridge is Who’s Next [Track 2408 102]. The Who’s best album, mostly recorded by Glyn Johns at Olympic Studios in London, Who’s Next is loud and brash — a great recording on every level, but like a mysterious lover, it doesn’t give up its secrets without some coaxing. Some recordings sound great on any system, and using them to evaluate review products is just a matter of discerning if they sound great or greater. With Who’s Next, if you don’t have your front-end dialed in just so, it will really show. As with other great vintage albums, true Who fanatics will spend years searching for the perfect copy of the very earliest pressing. With Who’s Next, that means an early matte-finish Track label, with “MG 12888” etched into one side of the dead wax and A//1 and either B//1 or B//2 matrixes (the master tapes are believed to be lost, so it’s unlikely better sound will ever be achieved). The earliest covers have spines that are pinched along the top and bottom edges.</p>
+
+			<p>I have a couple of copies, and have played them with countless combinations of equipment. My favorite cuts on the album always sound musical and never fail to satisfy. Yet with the succeeding years, and improvements in equipment, they continue to reveal more secrets. Until the Atlas &lambda; came along, I was convinced that some of the loudest passages concealed music forever lost to overdriven microphone preamps. With the Skala, the loudest passages seemed stuck in the speakers, with details sucked out. With the Titan i, there was a step up in the amount of detail retrieved, but I remained convinced that the microphones had been overdriven in some passages, and I assumed that Who’s Next wasn’t one of Glyn Johns’ greatest achievements. With the Atlas &lambda;, it became apparent that this was one great recording just waiting for playback equipment to catch up. The timing of the musical information shifts ever so slightly and allows everything to fall into place. Instead of the loud passages congealing musical texture, the soundstage just opened up, enough to accommodate all the musical treasures crowded into the grooves. The low-level detail found its place on “Baba O’Riley” and was not smothered by Keith Moon’s drum kit. One of my all-time favorites fell into place for the first time.</p>
+
+			<p>That’s not to say that the Atlas &lambda; can’t pull more from a recording that sounds great on every system. Perhaps Glyn Johns” best recording, Pete Townshend and Ronnie Lane’s Rough Mix, has never sounded less than amazing on any well-setup system. The UK release [Polydor 2442 147] or better yet the UK 45rpm promo [Polydor 2058 944] are go-to recordings to show off a system. They have acres of soundstage width and depth. Still, the Atlas &lambda; stretched the soundstage a few more feet in each direction, and structured the detail within that space with greater precision — beyond anything I’ve ever heard.</p>
+
+			<p>However, lots of detail at the expense of musical texture is of little value, but here again the Atlas &lambda; did not come up short. What set it apart from the Titan i, and perhaps most any cartridge around, was its ability to juggle all these balls at the same time, with the details extending just like a telescope being opened. Information that was stacked up and compressed one level upon the next (and thereby obscured) now expanded like a dry sponge taking on water, giving the details more space to breathe and make themselves known. In the process, the texture took on a delicacy made possible by the expanded palette. And you don’t need to listen to large complex music to hear this. I’ve listened to Miles Davis’s Kind of Blue [Columbia CS 8163] innumerable times. What sets apart average reproduction of this record from the exceptional are two things. First, the level of definition on Paul Chambers’ bass. On some systems (and with some reissues) Chambers is barely an afterthought, a ghostly image of one of jazz’s great bassists. Yes, there is a hint of a bass making some sort of rhythm back there in some ill-defined place center stage, but it comes and goes in the mix and has little body or definition. With the Atlas &lambda;, Chambers’ bass was better fixed in space than ever before. There was dimension to the instrument, and he really showed up for the session, sounding better integrated into the music than I’ve ever experienced.</p>
+
+			<p>Second, the drums are often not well integrated into the soundstage. With the Atlas &lambda;, Jimmy Cobb’s kit was more obvious in the mix. He’s sitting there in the right channel, but despite the reputation of this recording for great sound, on less-than-stellar systems there is nothing about Cobb’s playing that suggests one of the best recordings of all time. Here again the Atlas &lambda; is a champion. Cobb”s drum kit better matched this recording’s stature — I heard the brushes moving across the skins, and I could distinguish the unique sounds of wood, metal, animal skin and mylar, with the subtle clues coming together to produce sound more detailed yet more delicate than with most cartridges.</p>
+
+			<p>All of this talk of rock and jazz shouldn’t be taken to infer that the Atlas &lambda; is a headbanger”s cartridge. All of the attributes that set the Atlas &lambda; apart on rock music distinguished its performance on classical music as well. In one long afternoon, I treated myself to a run through Beethoven’s late string quartets with the Suske Quartet on Eterna. My personal favorite, Opus 130 [Eterna 8 27 454], is one of the most beautiful recordings in my collection, and with Lyra’s new cartridge it delivered as never before. For the first time, there was no harshness in the 2-5kHz range of the violin, and the balance of energy in the higher frequencies created a sense of air around the instruments that allowed Karl Suske and his quartet to appear fully formed in their chairs spread across my listening room. With a string quartet, the importance of low-level dynamic contrasts is paramount, and the Atlas &lambda; succeeded here brilliantly. The little cues that are often missing came together with the Atlas &lambda; on an almost spooky level so real that it sometimes startled me.</p>
+
+			<p>Yes, the Atlas &lambda;, at almost $10,000 new and $5500 to rebuild, is a very expensive cartridge. But keep in mind that you don’t pay for system components by the pound (unless you are British). That same amount of cash barely embraces a single state-of-the-art amplifier, preamplifier or phono stage. One of the things you pay for in a cartridge is the level of skill it takes to design and assemble an extremely accurate electronic transducer on a micro scale. Notwithstanding this justification, it’s still a fact that the Atlas &lambda; will likely be the exclusive preserve of well-heeled audiophiles — or the vinyl fanatic who will raise the finances somehow, just to release the last ounce of music from a treasured record collection. That said, <strong><i>if I could only keep a single component from my current system, replacing everything else, that new setup would be built around the Atlas &lambda;</i></strong>.
+
+			<p>In Greek mythology, Atlas &lambda; was not just one of the Titans, he was the Titan. Atlas &lambda; the cartridge has lived up to its namesake — it”s a super Titan and a truly exceptional cartridge capable of elevating the performance of any high-fidelity system.</p>
+
+
+
+		  <h3 class="my-3">Associated Equipment</h3>
+          <ul>
+			<li><strong>Analog:</strong> VPI TNT-6 turntable with rim drive and SDS speed controller, VPI 12.7 and Spiral Groove Centroid tonearms, Lyra Skala and Titan Mono cartridges, Koetsu Coral cartridge, Audio Research Reference Phono 2 and Reference Phono 2 SE phono stages</li>
+			<li><strong>Digital:</strong> Audio Research Reference CD7 CD player</li>
+			<li><strong>Preamplifier:</strong> Audio Research Reference 5SE</li>
+			<li><strong>Power amplifier:</strong> Audio Research Reference 150</li>
+			<li><strong>Loudspeakers:</strong> Avalon Acoustics Transcendent</li>
+			<li><strong>Interconnects:</strong> Nordost Valhalla</li>
+			<li><strong>Speaker cables:</strong> Nordost Frey</li>
+			<li><strong>Power conditioners:</strong> Quantum QBase 8 and QX4</li>
+			<li><strong>Power cords:</strong> Nordost Valhalla</li>
+			<li><strong>Equipment rack, platforms and accessories:</strong> Billy Bags equipment rack modified with a 4″ maple platform, Stillpoints Ultra isolators, Stillpoints Component Stands, Furutec GTX D-Rhodium AC outlet</li>
+			</ul>
+        </div>
+
+      </div>
+      <!-- /.row -->
+
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Lyra Analog <script>document.write(new Date().getFullYear())</script></p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>
