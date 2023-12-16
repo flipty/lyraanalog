@@ -142,7 +142,7 @@ Praceta Jose Regio, No. 8-A<br>
 Damaia De Baixo<br>
 2720 Amadora<br>
 Tel:<a href="tel:+351214748709"> +351 21474 8709</a>
-<hr>
+<!-- <hr>
 <h4>Russia</h4>
 <h5>Techno-M</h5>
 Mr. Alexei Entin<br>
@@ -151,7 +151,7 @@ Moscow<br>
 Tel:<a href="tel:+74992544704"> +7 (499) 254-4704</a><br>
 Tel:<a href="tel:+74992508348"> +7 (499) 250-8348</a><br>
 <a href="http://www.techno-m.ru/" target="_blank">Website</a>
-            </div>
+ -->            </div>
             <div class="col-md-4">
 <h4>Spain</h4>
 <h5>Cosmos Vibex, S.L.</h5><br>
@@ -178,7 +178,7 @@ Tel:<a href="tel:+904443760"> +90 444 3760</a><br>
 Fax: +90 212 285 00 73<br>
 <a href="http://www.extreme-audio.com/" target="_blank">Website</a>
 <hr>
-<h4>Ukraine</h4>
+<!-- <h4>Ukraine</h4>
 <h5>Orion Company</h5>
 Mr. Gurenko Nickolai<br>
 Pushkina Prospect 36/a<br>
@@ -186,7 +186,7 @@ Dnepropetrovsk 49006<br>
 Tel:<a href="tel:+380675650593"> +380675650593</a><br>
 <a href="http://www.orion7.com.ua/" target="_blank">Website</a>
 <hr>
-<h4>UK</h4>
+ --><h4>UK</h4>
 <h5>Symmetry</h5>
 Mr. Nigel Crump<br>
 Suite 5, 17 Holywell Hill<br>
