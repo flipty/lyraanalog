@@ -26,52 +26,98 @@
     <?php include('include-navigation.php');?>
     <!-- NEW HERO -->
 
-    <section class="home-hero">
-      <span class="intro">λ Lambda Collection 2023</span>
-      <div class="container">
-        <div class="inner">
-             <div class="cartridges">
-               <div class="cartridge" id="atlas">
-                <a href="atlas.php">
-                  <img src="images/home/atlas.png" alt="ATLAS">
-                  <span class="name">ATLAS</span>
-                </a>
-               </div>
-               <div class="cartridge" id="etna-sl">
-                <a href="etna-sl.php">
-                  <img src="images/home/etna.png" alt="ETNA SL">
-                  <span class="name">ETNA SL</span>
-                </a>  
-               </div>
-               <div class="cartridge" id="etna">
-                <a href="etna.php">
-                  <img src="images/home/etna.png" alt="ETNA">
-                  <span class="name">ETNA</span>
-                </a>  
-               </div>
-               <div class="cartridge" id="atlas-sl">
-                <a href="atlas-sl.php">
-                  <img src="images/home/atlas.png" alt="ATLAS SL">
-                  <span class="name">ATLAS SL</span>
-                </a>  
-               </div>
-             </div>
-        </div>
-      </div>
-      
-      <div class="overlay">
-        <div class="arrows">
-          <div class="arrow arrow-tl"><img src="images/home/arrow-white-2.svg" alt="arrow"></div>
-          <div class="arrow arrow-tr"><img src="images/home/arrow-white-2.svg" alt="arrow"></div>
-          <div class="arrow arrow-bl"><img src="images/home/arrow-white-2.svg" alt="arrow"></div>
-          <div class="arrow arrow-br"><img src="images/home/arrow-white-2.svg" alt="arrow"></div>
-        </div>
-        <div class="which">
-          <p>Which Lambda<br>matches you<br>the best?</p>
-        </div>               
-      </div>
+<div id="homeCarousel" class="carousel slide home-carousel" data-ride="carousel">
+        <div class="carousel-item active">
+            <section class="home-hero">
+              <span class="intro">λ Lambda Collection 2023</span>
+              <div class="container">
+                <div class="inner">
+                     <div class="cartridges">
+                       <div class="cartridge" id="atlas">
+                        <a href="atlas.php">
+                          <img src="images/home/atlas.png" alt="ATLAS">
+                          <span class="name">ATLAS</span>
+                        </a>
+                       </div>
+                       <div class="cartridge" id="etna-sl">
+                        <a href="etna-sl.php">
+                          <img src="images/home/etna.png" alt="ETNA SL">
+                          <span class="name">ETNA SL</span>
+                        </a>  
+                       </div>
+                       <div class="cartridge" id="etna">
+                        <a href="etna.php">
+                          <img src="images/home/etna.png" alt="ETNA">
+                          <span class="name">ETNA</span>
+                        </a>  
+                       </div>
+                       <div class="cartridge" id="atlas-sl">
+                        <a href="atlas-sl.php">
+                          <img src="images/home/atlas.png" alt="ATLAS SL">
+                          <span class="name">ATLAS SL</span>
+                        </a>  
+                       </div>
+                     </div>
+                </div>
+              </div>              
+              <div class="overlay">
+                <div class="arrows">
+                  <div class="arrow arrow-tl"><img src="images/home/arrow-white-2.svg" alt="arrow"></div>
+                  <div class="arrow arrow-tr"><img src="images/home/arrow-white-2.svg" alt="arrow"></div>
+                  <div class="arrow arrow-bl"><img src="images/home/arrow-white-2.svg" alt="arrow"></div>
+                  <div class="arrow arrow-br"><img src="images/home/arrow-white-2.svg" alt="arrow"></div>
+                </div>
+                <div class="which">
+                  <p>Which Lambda<br>matches you<br>the best?</p>
+                </div>               
+              </div>
 
-    </section>
+            </section>
+        </div>
+        <div class="carousel-item">
+          <div class="image-container product">
+            <img src="images/home/erodion-slider.jpg" alt="" title="" class="">  
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="image-container product">
+            <img src="images/home/atlas-slider.jpg" alt="" title="" class="">  
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="image-container product">
+            <img src="images/home/kleos-slider.jpg" alt="" title="" class="">  
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="image-container product">
+            <img src="images/home/delos-slider.jpg" alt="" title="" class="">  
+          </div>
+        </div>
+
+
+      <div class="carousel-controls">
+        <a class="carousel-control-prev" href="#homeCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#homeCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+        </a>                  
+      </div>
+<!--       <div class="carousel-indicators">
+        <ol class="carousel-indicators">
+          <li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#homeCarousel" data-slide-to="1" class=""></li>
+          <li data-target="#homeCarousel" data-slide-to="2" class=""></li>
+          <li data-target="#homeCarousel" data-slide-to="3" class=""></li>
+          <li data-target="#homeCarousel" data-slide-to="4" class=""></li>
+        </ol>
+      </div>
+ -->
+    </div>  
+
     <!-- Page Content -->
     <div class="container">
 

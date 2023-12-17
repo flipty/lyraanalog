@@ -297,20 +297,30 @@ section.home-hero {
 		}
 }
 
-.carousel.product-carousel {
+
+.carousel.home-carousel {
+	background: #000;
 	.carousel-item {
-		height: 400px;
-		img {
-			max-width: 100%; 
+		.image-container {
+			width: 100%;
+			height: 650px;
+			overflow: hidden;
+			text-align: center;
+			img {
+				height: 100%;
+				width: auto;
+				margin: 0 auto;
+			}
 		}
 	}
-	.carousel-controls {
-		width: 100%;
-		// height: 400px;
-		position: absolute;
-		top: 50%;
-		.carousel-control-prev, .carousel-control-next {
-			max-height: 400px; 
+	.carousel-indicators {
+		&.active {
+			background: transparent;
+		}
+		ol {
+			li {
+
+			}
 		}
 	}
 }
