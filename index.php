@@ -27,7 +27,7 @@
     <!-- NEW HERO -->
 
 <div id="homeCarousel" class="carousel slide home-carousel" data-ride="carousel">
-        <div class="carousel-item active">
+       <div class="carousel-item active">
             <section class="home-hero">
               <span class="intro">λ Lambda Collection 2023</span>
               <div class="container">
@@ -74,27 +74,34 @@
 
             </section>
         </div>
-        <div class="carousel-item">
+       <div class="carousel-item">
           <div class="image-container product">
+            <a href="erodion-evo.php">
             <img src="images/home/erodion-slider.jpg" alt="" title="" class="">  
+            </a>
           </div>
         </div>
         <div class="carousel-item">
           <div class="image-container product">
+            <a href="atlas.php">
             <img src="images/home/atlas-slider.jpg" alt="" title="" class="">  
+            </a>
           </div>
         </div>
         <div class="carousel-item">
           <div class="image-container product">
+            <a href="kleos.php">
             <img src="images/home/kleos-slider.jpg" alt="" title="" class="">  
+            </a>
           </div>
         </div>
         <div class="carousel-item">
           <div class="image-container product">
+            <a href="delos.php">
             <img src="images/home/delos-slider.jpg" alt="" title="" class="">  
+            </a>
           </div>
         </div>
-
 
       <div class="carousel-controls">
         <a class="carousel-control-prev" href="#homeCarousel" role="button" data-slide="prev">
@@ -106,7 +113,7 @@
         <span class="sr-only">Next</span>
         </a>                  
       </div>
-<!--       <div class="carousel-indicators">
+<!--  <div class="carousel-indicators">
         <ol class="carousel-indicators">
           <li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#homeCarousel" data-slide-to="1" class=""></li>

@@ -27,6 +27,9 @@ section.home-hero {
 			display: flex;
 			flex-flow: row wrap;
 			justify-content: space-between;
+			@include breakpoint(lg){
+				height: 365px;
+			}
 			.cartridge {
 				// background: rgba(255,255,255,0.1);
 				width: 35%;
@@ -34,6 +37,9 @@ section.home-hero {
 				position: relative;
 				display: flex;
 				flex-flow: row;
+				@include breakpoint(lg){
+					// width: 26%;
+				}
 				a {
 					position: relative;
 					display: flex;
@@ -44,6 +50,12 @@ section.home-hero {
 						@include breakpoint(xl){
 							max-width: 50%;
 						}
+						@include breakpoint(lg){
+							height: auto;
+							max-width: none;
+							width: 140px;
+						}
+
 					}
 					.name {
 						display: block;
@@ -67,15 +79,6 @@ section.home-hero {
 							text-align: center !important;						
 							left: auto !important;
 						}
-						@include breakpoint(md){
-							
-						}
-						@include breakpoint(lg){
-							
-						}
-						@include breakpoint(xl){
-							
-						}
 					}
 				}
 				&#atlas {
@@ -85,10 +88,15 @@ section.home-hero {
 						@include breakpoint(md){
 							left: 30px;
 						}
-
+						@include breakpoint(lg){
+							left: 10px;
+						}
 					}
 				}
 				&#etna-sl {
+					@include breakpoint(lg){
+						flex-flow: row-reverse;
+					}
 					a {flex-direction: row-reverse;}
 					.name {
 						left: 100px;
@@ -100,6 +108,10 @@ section.home-hero {
 						@include breakpoint(md){
 							left: 50px;
 						}
+						@include breakpoint(lg){
+							left: -10px;
+						}
+
 					}
 				}
 				&#etna {
@@ -109,13 +121,22 @@ section.home-hero {
 						@include breakpoint(md){
 							left: 40px;
 						}
+						@include breakpoint(lg){
+							left: 20px;
+						}
 					}
 				}
 				&#atlas-sl {
-					a {flex-direction: row-reverse;}
+					@include breakpoint(lg){
+						flex-flow: row-reverse;
+					}
+					a { flex-direction: row-reverse;}
 					.name {
 						left: 100px;
 						color: #a03dc6;
+						@include breakpoint(lg){
+							left: -10px;
+						}
 						@include breakpoint(xl){
 							left: 170px;
 						}
@@ -128,30 +149,19 @@ section.home-hero {
 		}
 	}
 	.overlay {
-			// position: relative;
 			width: 100%;
-			//min-height: 55vh;
-			//max-height: 80vh;
 			display: flex;
 			flex-flow: row;
 			justify-content: center;
-			@include breakpoint(xs){
-				// min-height: 375px;
-			}
-			@include breakpoint(sm){
-				// min-height: 375px;
-			}
-			@include breakpoint(md){
-				//min-height: 34vh;
-			}
-			@include breakpoint(lg){
-				//min-height: 43vh;
-			}
 			.which, .arrows {
-				top: 300px;
+				top: 200px;
 			    left: 35%;
 			    width: 500px;
 				height: 19vw;
+				@include breakpoint(mobile){
+					height: 200px;
+					left: auto;
+				}					
 				@include breakpoint(md){
 					top: 28%;
 					left: auto;
@@ -171,28 +181,25 @@ section.home-hero {
 				color: white;
 				margin: 0 auto;
 				text-align: center;
-
 				@include breakpoint(xs){
 					width: 100%;
-					top: 200px;
+					top: 160px;
 					left: 0%;
 				}					
 				@include breakpoint(sm){
-					top: 260px;
+					top: 160px;
 					left: auto;
 					width: 185px;
 				}					
 				@include breakpoint(md){
-					top: 245px;
-					//left: 22%;
+					top: 145px;
 				}					
 				@include breakpoint(lg){
-					top: 370px;
-					// left: 30%;
+					top: 200px;
 				}					
 				@include breakpoint(xl){
-					// top: 32%;
 					left: auto;
+					top: 220px;
 				}					
 
 				p {
@@ -226,29 +233,32 @@ section.home-hero {
 			    display: flex;
 			    flex-flow: row;
 			    height: 275px;
+				@include breakpoint(mobile){
+					display: none;
+					height: 1px;
+				}
 				@include breakpoint(xs){
 					display: none;
 				}
 				@include breakpoint(sm){
 					height: 125px;
 					width: 185px;
-					top: 230px;
+					top: 130px;
 					left: auto;
 				}
 				@include breakpoint(md){
 					height: 10vh;
-					top: 275px;
-					// left: 34.5%;
+					top: 175px;
 					width: 270px;
 				}
 				@include breakpoint(lg){
-					top: 350px;
-					//left: 35%;
+					top: 200px;
+					height: 230px;
 					width: 365px;
 				}					
 				@include breakpoint(xl){
-					// top: 32%;
 					left: auto;
+					top: 220px;
 				}					
 
 				.arrow {
@@ -306,6 +316,13 @@ section.home-hero {
 			height: 650px;
 			overflow: hidden;
 			text-align: center;
+			@include breakpoint(mobile){
+				height: 345px;
+			}
+			@include breakpoint(lg){
+				height: 500px;					
+			}
+
 			img {
 				height: 100%;
 				width: auto;
