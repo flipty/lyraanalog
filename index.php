@@ -26,8 +26,16 @@
     <?php include('include-navigation.php');?>
     <!-- NEW HERO -->
 
-<div id="homeCarousel" class="carousel slide home-carousel" data-ride="carousel">
+<div id="homeCarousel" class="carousel slide home-carousel" data-ride="carousel" data-interval="6000">
        <div class="carousel-item active">
+          <div class="image-container product">
+            <a href="erodion-evo.php">
+            <img src="images/home/erodion-slider.jpg" alt="" title="" class="">  
+            </a>
+          </div>
+        </div>
+
+       <div class="carousel-item">
             <section class="home-hero">
               <span class="intro">λ Lambda Collection 2023</span>
               <div class="container">
@@ -73,13 +81,6 @@
               </div>
 
             </section>
-        </div>
-       <div class="carousel-item">
-          <div class="image-container product">
-            <a href="erodion-evo.php">
-            <img src="images/home/erodion-slider.jpg" alt="" title="" class="">  
-            </a>
-          </div>
         </div>
         <div class="carousel-item">
           <div class="image-container product">
